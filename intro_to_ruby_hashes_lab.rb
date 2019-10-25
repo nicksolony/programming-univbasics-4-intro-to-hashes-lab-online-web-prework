@@ -53,5 +53,5 @@ test = {
   a: 5
 }
 
-
+update_counting_hash(test,a)
 
